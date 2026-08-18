@@ -1,4 +1,5 @@
 {
+  "generatedAt": "2026-08-18T12:04:43.440Z",
   "gallery": [
     {
       "category": "official",
@@ -6,7 +7,23 @@
       "source": "Cosmo Talk",
       "date": "2026-08-18",
       "media": "image",
-      "file": "assets/cosmo talk/2026/08/18/image-01.jpg"
+      "file": "assets/Cosmo Talk/2026/08/18/image-01.jpg"
+    },
+    {
+      "category": "official",
+      "type": "cosmo-talk",
+      "source": "Cosmo Talk",
+      "date": "2026-08-18",
+      "media": "image",
+      "file": "assets/Cosmo Talk/2026/08/18/image-02.jpg"
+    },
+    {
+      "category": "official",
+      "type": "cosmo-talk",
+      "source": "Cosmo Talk",
+      "date": "2026-08-18",
+      "media": "image",
+      "file": "assets/Cosmo Talk/2026/08/18/image-03.jpg"
     },
     {
       "category": "fansite",
@@ -14,7 +31,15 @@
       "source": "Antoine",
       "date": "2026-08-16",
       "media": "image",
-      "file": "assets/fansite/Antoine/2026/08/16/test1.jpg"
+      "file": "assets/Fansite/Antoine/2026/08/16/test1.jpg"
+    },
+    {
+      "category": "fansite",
+      "type": "fansite",
+      "source": "Antoine",
+      "date": "2026-08-16",
+      "media": "image",
+      "file": "assets/Fansite/Antoine/2026/08/16/test2.jpg"
     },
     {
       "category": "fansite",
@@ -22,8 +47,54 @@
       "source": "Tree",
       "date": "2026-08-16",
       "media": "video",
-      "file": "assets/fansite/tree/2026/08/16/260816 - Tree.mp4",
-      "linkFile": "assets/fansite/tree/2026/08/16/link.txt"
+      "file": "assets/Fansite/Tree/2026/08/16/260816 - Tree.mp4",
+      "links": {
+        "original": "https://x.com/Tree_S10/status/2088997371871216088?s=20"
+      }
+    },
+    {
+      "category": "official",
+      "type": "cosmo-room",
+      "source": "Cosmo Room",
+      "date": "2026-08-04",
+      "media": "image",
+      "file": "assets/Cosmo Room/2026/08/04/test01.jpg"
+    },
+    {
+      "category": "official",
+      "type": "triples-official",
+      "source": "TripleS Official",
+      "date": "2026-08-03",
+      "media": "image",
+      "file": "assets/TripleS Official/2026/08/03/test01.jpg"
+    },
+    {
+      "category": "official",
+      "type": "triples-official",
+      "source": "TripleS Official",
+      "date": "2026-08-03",
+      "media": "image",
+      "file": "assets/TripleS Official/2026/08/03/test02.jpg"
+    },
+    {
+      "category": "official",
+      "type": "triples-official",
+      "source": "TripleS Official",
+      "date": "2026-08-03",
+      "media": "image",
+      "file": "assets/TripleS Official/2026/08/03/test03.jpg"
+    },
+    {
+      "category": "official",
+      "type": "triples-official",
+      "source": "TripleS Official",
+      "date": "2026-07-27",
+      "media": "image",
+      "file": "assets/TripleS Official/2026/07/27/maxresdefault.jpg",
+      "links": {
+        "tiktok": "https://www.tiktok.com/@triplescosmos/video/7667037085534031125?is_from_webapp=1&sender_device=pc",
+        "youtube": "https://youtube.com/shorts/TUuS8VURVTQ?si=55Zg8twdk_9lJjpt"
+      }
     },
     {
       "category": "official",

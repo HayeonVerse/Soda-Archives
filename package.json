@@ -1,0 +1,17 @@
+{
+  "name": "soda-archives",
+  "version": "1.0.0",
+  "description": "Seo Dahyun / SODA Archive",
+  "main": "index.js",
+  "scripts": {
+    "build": "node builder.js"
+  },
+  "keywords": [
+    "seo-dahyun",
+    "soda",
+    "triples",
+    "archive"
+  ],
+  "author": "",
+  "license": "ISC"
+}
