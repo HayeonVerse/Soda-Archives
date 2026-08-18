@@ -1,0 +1,37 @@
+{
+  "gallery": [
+    {
+      "category": "official",
+      "type": "cosmo-talk",
+      "source": "Cosmo Talk",
+      "date": "2026-08-18",
+      "media": "image",
+      "file": "assets/cosmo talk/2026/08/18/image-01.jpg"
+    },
+    {
+      "category": "fansite",
+      "type": "fansite",
+      "source": "Antoine",
+      "date": "2026-08-16",
+      "media": "image",
+      "file": "assets/fansite/Antoine/2026/08/16/test1.jpg"
+    },
+    {
+      "category": "fansite",
+      "type": "fansite",
+      "source": "Tree",
+      "date": "2026-08-16",
+      "media": "video",
+      "file": "assets/fansite/tree/2026/08/16/260816 - Tree.mp4",
+      "linkFile": "assets/fansite/tree/2026/08/16/link.txt"
+    },
+    {
+      "category": "official",
+      "type": "fromm",
+      "source": "Fromm",
+      "date": "2026-06-13",
+      "media": "image",
+      "file": "assets/fromm/2026/06/13/test.jpg"
+    }
+  ]
+}
