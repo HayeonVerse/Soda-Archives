@@ -1358,3 +1358,74 @@ body.lightbox-open {
 
     gap: 8px;
 }
+
+/* =========================================================
+   ARCHIVE INTRO
+   ========================================================= */
+
+.archive-intro {
+    display: grid;
+
+    grid-template-columns:
+        repeat(4, 1fr);
+
+    gap: 16px;
+}
+
+
+.archive-intro-item {
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 6px;
+
+    padding: 22px;
+
+    background:
+        rgba(251, 160, 227, 0.08);
+
+    border:
+        1px solid
+        rgba(251, 160, 227, 0.2);
+
+    border-radius: 12px;
+}
+
+
+.archive-intro-item strong {
+    font-size: 11px;
+
+    text-transform: uppercase;
+
+    letter-spacing: 0.08em;
+
+    color:
+        var(--text-muted);
+}
+
+
+.archive-intro-item span {
+    font-size: 14px;
+
+    font-weight: 600;
+}
+
+
+@media (max-width: 800px) {
+
+    .archive-intro {
+        grid-template-columns:
+            repeat(2, 1fr);
+    }
+
+}
+
+
+@media (max-width: 500px) {
+
+    .archive-intro {
+        grid-template-columns: 1fr;
+    }
+
+}
